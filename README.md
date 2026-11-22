@@ -1,4 +1,4 @@
-# MPQ Viewer by X08
+# MPQ Viewer Editor for Linux by X08
 
 https://github.com/X08/MPQ-Viewer-Editor-for-Linux
 
