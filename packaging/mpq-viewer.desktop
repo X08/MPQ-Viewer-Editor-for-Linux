@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=MPQ Viewer by X08
+GenericName=MPQ Archive Editor
+Comment=Browse, extract and edit Blizzard MPQ archives
+Exec=mpq-viewer %F
+Icon=mpq-viewer
+Terminal=false
+Categories=Utility;Archiving;Qt;
+MimeType=application/x-mpq;
+StartupWMClass=mpq-viewer
